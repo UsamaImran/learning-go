@@ -20,5 +20,5 @@ func main (){
 	numberImplicit := 2300000032423423234
 	fmt.Println(common)
 	fmt.Println(numberImplicit)
-	fmt.Print(common,numberImplicit,"\n","asdasdasd", value, math.Pow(2,3), strconv.Atoi("12234"))
+	fmt.Print(common,numberImplicit,"\n","asdasdasd", value, math.Pow(2,3), strconv.Itoa(123))
 }
